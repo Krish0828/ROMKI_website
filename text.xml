@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/images/Animated-Flag-India.gif</ImageUrl>
+		<AlternateText>flag</AlternateText>
+		<Height>200</Height>
+		<Width>250</Width>
+		<Keywords>
+		</Keywords>
+		<Impressions>
+		</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/tajmahal.jpg</ImageUrl>
+		<AlternateText>taj-mahal</AlternateText>
+		<Height>200</Height>
+		<Width>250</Width>
+		<Keywords>
+		</Keywords>
+		<Impressions>
+		</Impressions>
+	</Ad>
+	<Ad>
+			<ImageUrl>~/images/camel.jpg</ImageUrl>
+			<AlternateText>Rajsthan</AlternateText>
+			<Height>200</Height>
+			<Width>250</Width>
+			<Keywords>
+			</Keywords>
+			<Impressions>
+			</Impressions>
+	</Ad>
+
+</Advertisements>

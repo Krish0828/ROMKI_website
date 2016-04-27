@@ -1,0 +1,83 @@
+﻿/* CSS layout */
+#masthead {
+	background-color: #000000;
+	color: #FFFFFF;
+	position: relative;
+	width: 85%;
+	text-align: center;
+}
+
+#top_nav {
+	padding-bottom: 10px;
+}
+
+#container {
+	position: relative;
+	width: 85%;
+}
+
+#left_col {
+	width: 200px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+#page_content {
+	margin-left: 200px;
+	text-align: justify;
+	padding-left: 20px;
+	border-left-width: px;
+	background-repeat: repeat-y;
+}
+#footer {
+	font-size: 10px;
+	text-align: center;
+	padding-top: 20px;
+}
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+h1 {
+	font-family: "Blackadder ITC";
+	font-size: 45px;
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: left;
+}
+.highlight {
+	background-color: #F7D629;
+	color: #000000;
+}
+a:link {
+	color: #FF6600;
+}
+a:hover {
+	color: #FFCC00;
+	text-decoration: underline overline;
+}
+a:visited {
+	color: #00CC00;
+}
+.dropcap {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 75px;
+	color: #008000;
+	line-height: 50px;
+	padding-top: 2px;
+	float: left;
+}
+.blockquote {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold;
+	color: #FF3300;
+	line-height: 90%;
+	text-align: center;
+	background-repeat: no-repeat;
+	padding-top: 40px;
+	padding-left: 20px;
+	width: 150px;
+	float: right;
+}
